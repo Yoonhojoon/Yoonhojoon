@@ -1,7 +1,7 @@
 <!-- 헤더 -->
-<h1 align="center">👋 Hi there, I'm [Your Name]!</h1>
+<h1 align="center">👋 안녕하세요, 윤호준입니다!</h1>
 <p align="center">
-  Welcome to my GitHub! I'm passionate about backend development, cloud computing, and AI.
+  "클라우드, 데이터, 그리고 최적화를 짝사랑하는 개발자입니다." .
 </p>
 
 <!-- GIF 또는 이미지 -->
@@ -15,7 +15,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -34,17 +33,16 @@
 
 ### 🚀 Featured Projects
 
-- 🏗 **SmoothRide** - A real-time traffic visualization and optimal route recommendation system.
-- 🌍 **Global Weather Dashboard** - A weather tracking app using OpenWeather API.
-- 📦 **Dockerized FastAPI Service** - A microservice-based backend for scalable applications.
+- 🏗 **SmoothRide** - 실시간 도로 교통 상황을 보여주는 웹사이트
+
 
 ---
 
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="dbsghwns1209@khu.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EC%9C%A4%ED%98%B8%EC%A4%80-%ED%95%99%EC%83%9D-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9C%B5%ED%95%A9%EB%8C%80%ED%95%99-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%80-%E2%80%8D-a4029934a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
