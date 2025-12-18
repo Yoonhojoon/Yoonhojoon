@@ -57,8 +57,8 @@
 <p align="center">
   <a href="mailto:dbsghwns1209@khu.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%9C%A4%ED%98%B8%EC%A4%80-%ED%95%99%EC%83%9D-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9C%B5%ED%95%A9%EB%8C%80%ED%95%99-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%80-%E2%80%8D-a4029934a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://elice.works/shared-resume/account/6765/publicUuid/8f8bd293-b90e-49d6-9ee4-bbb38e6ffeba"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-    <a href="https://velog.io/@hojun1209/posts"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=velog&logoColor=white"/></a>
+  <a href="https://www.figma.com/design/tlNoNDRklrn81nEXAToZvI/%EC%9C%A4%ED%98%B8%EC%A4%80-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0-1&t=WrSIvG1jlKBoF2KB-1"><img src="https://img.shields.io/badge/Resume-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+    <a href="https://www.figma.com/proto/suAPnuMwlUJhTJQYo4hW66/Untitled?page-id=0%3A1&node-id=1-49&p=f&viewport=40%2C161%2C0.37&t=UJyD8cxB366MSNUh-1&scaling=min-zoom&content-scaling=fixed"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=velog&logoColor=white"/></a>
 </p>
 
 <p align="center">
