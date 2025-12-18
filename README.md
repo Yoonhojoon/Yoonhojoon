@@ -1,7 +1,8 @@
 <!-- 헤더 -->
 <h1 align="center">👋 안녕하세요, 윤호준입니다!</h1>
 <p align="center">
-  "클라우드, 데이터, 그리고 최적화를 짝사랑하는 개발자입니다." .
+  "합리적인 Trade-Off를 고민하는 개발자입니다. 안정적으로 개발과 운영을 통합하고자 노력합니다.
+  주로 Spring Boot를 이용한 Backend를 개발합니다." .
 </p>
 
 <!-- GIF 또는 이미지 -->
@@ -46,6 +47,8 @@
 
 ---
 
+
+**Pertineo** - 경희대학교 미래인재센터 공식 자기소개서 분석 서비스 리팩토링 (DevOps / Backend) https://pertineo.khu.ac.kr/
 
 ---
 
